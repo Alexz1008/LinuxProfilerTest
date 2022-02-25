@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zhoua\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zhoua\\.nuget\\packages"
+    ]
+  }
+}
